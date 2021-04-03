@@ -1,2 +1,2 @@
 # urionlinejudgepython
-Resolução dos problemas do URI Online Judge em Python
+Resolução dos problemas do URI Online Judge em Python 3
